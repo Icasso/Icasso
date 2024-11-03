@@ -17,8 +17,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           template: markdown
-          filename: metrics.markdown.md
-          markdown: >-
-            https://raw.githubusercontent.com/lowlighter/metrics/examples/metrics.markdown.template.md
-          config_output: markdown
+          filename: assets/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
+          base: header, activity, community, repositories, metadata
