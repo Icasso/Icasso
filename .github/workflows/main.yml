@@ -19,7 +19,6 @@ jobs:
           template: markdown
           filename: assets/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
       - uses: lowlighter/metrics@latest
         with:
           filename: assets/metrics.plugin.leetcode.svg
