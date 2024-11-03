@@ -1,3 +1,2 @@
-### Hi 👋
 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tsuihoiming/)
+<img src="/assets/metrics.plugin.leetcode.svg" alt="Metrics" width="100%">
