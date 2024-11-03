@@ -20,3 +20,11 @@ jobs:
           filename: assets/metrics.base.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories, metadata
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: IsaacTsui
+          plugin_leetcode_sections: solved, skills, recent
