@@ -19,26 +19,26 @@
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge all">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="26.304295942720763 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">268</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3352</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="27.2776617954071 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">278</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/3353</text>
                                 </svg>
                                 <span class="title">All</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge easy">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="91.52038369304556 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">232</text>
-                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/834</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="94.562874251497 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">240</text>
+                                    <text x="60" y="80" dominant-baseline="central" class="secondary">/835</text>
                                 </svg>
                                 <span class="title">Easy</span>
                             </div>
                             <div class="category column">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="50" height="50" class="gauge medium">
                                     <circle class="gauge-base" r="53" cx="60" cy="60"/>
-                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="6.756417569880205 329"/>
-                                    <text x="60" y="50" dominant-baseline="central">36</text>
+                                    <circle class="gauge-arc" transform="rotate(-90 60 60)" r="53" cx="60" cy="60" stroke-dasharray="7.131774101540217 329"/>
+                                    <text x="60" y="50" dominant-baseline="central">38</text>
                                     <text x="60" y="80" dominant-baseline="central" class="secondary">/1753</text>
                                 </svg>
                                 <span class="title">Medium</span>
@@ -63,16 +63,16 @@
                         Skills
                     </h2>
                     <div class="topics">
-                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x148</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x124</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Array <span class="count">x157</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Hash Table <span class="count">x126</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> String <span class="count">x90</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x38</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x36</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x32</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Sorting <span class="count">x44</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Two Pointers <span class="count">x38</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Math <span class="count">x34</span></div>
+                        <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x21</span></div>
                         <div class="label fundamental"><span class="dot">⬤</span> Simulation <span class="count">x20</span></div>
-                        <div class="label fundamental"><span class="dot">⬤</span> Stack <span class="count">x20</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x18</span></div>
-                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x15</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Binary Search <span class="count">x19</span></div>
+                        <div class="label intermediate"><span class="dot">⬤</span> Bit Manipulation <span class="count">x16</span></div>
                     </div>
                 </section>
                 <section class="leetcode subsection">
@@ -87,8 +87,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Subtract the Product and Sum of Digits of an Integer</div>
-                            <div class="date">14 Nov 2024</div>
+                            <div class="title">Plus One</div>
+                            <div class="date">15 Nov 2024</div>
                         </div>
                     </div>
                     <div class="field">
@@ -96,8 +96,8 @@
                             <path fill-rule="evenodd" d="M8 5.5a2.5 2.5 0 100 5 2.5 2.5 0 000-5zM4 8a4 4 0 118 0 4 4 0 01-8 0z"/>
                         </svg>
                         <div class="infos">
-                            <div class="title">Robot Return to Origin</div>
-                            <div class="date">14 Nov 2024</div>
+                            <div class="title">Group the People Given the Group Size They Belong To</div>
+                            <div class="date">15 Nov 2024</div>
                         </div>
                     </div>
                 </section>
